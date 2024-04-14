@@ -13,9 +13,9 @@ Refer to https://aka.ms/NodeBeginner (videos 17 through 21 covers this exact API
 Route                                        | Description
 ---------------------------------------------|------------------------------------
 GET    /api/                                 | Get server info
-POST   /api/accounts/                        | Create an account, ex: `{ user: 'Yohan', description: 'My budget', currency: 'EUR', balance: 100 }`
+POST   /api/accounts/                        | Create an account, ex: `{ user: 'Uxue', description: 'Travel', currency: 'EUR', balance: 500 }`
 GET    /api/accounts/:user                   | Get all data for the specified account
 DELETE /api/accounts/:user                   | Remove specified account
-POST   /api/accounts/:user/transactions      | Add a transaction, ex: `{ date: '2020-07-23T18:25:43.511Z', object: 'Bought a book', amount: -20 }`
+POST   /api/accounts/:user/transactions      | Add a transaction, ex: `{ date: '2024-07-24T18:40:43.500Z', object: 'Flight', amount: -2000 }`
 DELETE  /api/accounts/:user/transactions/:id | Remove specified transaction
 
