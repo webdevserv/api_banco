@@ -1,6 +1,7 @@
 # Bank app
 
 HTML5, CSS and JavaScript.
+![Alt Text](https://github.com/webdevserv/api_banco/blob/df589edd7f94a0e27c172850e53a19d480786672/screens/screen1.jpg)  
 
 ## Running the API locally 
 
