@@ -1,6 +1,6 @@
 # Bank app
 
-> Example solution for the bank app project, built with vanilla HTML5, CSS and JavaScript (no frameworks or libraries used).
+HTML5, CSS and JavaScript.
 
 ## Running the API locally 
 
