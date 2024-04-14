@@ -1,4 +1,5 @@
 # Banku aplikazioa (HTML5, CSS eta JavaScript erabiliz)  
+![Alt Text](https://github.com/webdevserv/api_banco/blob/df589edd7f94a0e27c172850e53a19d480786672/screens/screen1.jpg)  
 
 ## APIa lokalki exekutatzea  
 
